@@ -8,7 +8,7 @@ Make sure you have a media button such as [this](https://www.amazon.com/gp/aw/d/
 
 Download the veloton-media-button.ahk script from this repository. You can save this script in any folder. I just have it saved on my desktop. 
 
-To run it the script, just double click on it and it will load. 
+To run the script, just double click on it and it will load. 
 
 To exit the script, press Shift+Ctl+Q
 
