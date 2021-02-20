@@ -10,6 +10,8 @@ You can save this script in any folder. I just have it saved on my desktop.
 
 To run it the script, just double click on it and it will load. 
 
+To exit the script, press Shift+Ctl+Q
+
 Single Click functions:
 
   - Play/pause -> First Person View Toggles
